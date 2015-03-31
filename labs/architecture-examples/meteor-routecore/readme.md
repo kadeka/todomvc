@@ -26,18 +26,14 @@ HTML5 routing is used, rather than hash based routing, as that is what RouteCore
 ## Running
 
 Install Meteor
+
 ```bash
  $ curl https://install.meteor.com/ | sh
 ```
 
-Install Meteorite
-```bash
- $ npm install -g meteorite
-```
-
 Run the app
 ```bash
- $ mrt
+ $ meteor
 ```
 
 
